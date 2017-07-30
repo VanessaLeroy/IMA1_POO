@@ -1,0 +1,50 @@
+Liste des Articles :
+
+
+Côte : c0
+Titre : dark side of the moon
+Interprète : roger/waters
+Année de parution : 1975
+Genre : rock
+Disponible : true
+Nombre de chansons : 
+Durée du CD : 
+
+Côte : c1
+Titre : indestructuble
+Interprète : tim/armstrong
+Année de parution : 2003
+Genre : punk
+Disponible : true
+Nombre de chansons : 
+Durée du CD : 
+
+Côte : d0
+Titre : Valkyrie
+Producteur : william
+Année de parution : 2007
+Genre : historique
+Disponible : true
+Durée du DVD : 
+
+Côte : d1
+Titre : Charlie et la chocolatrie
+Producteur : tim/burton
+Année de parution : 2006
+Genre : animation
+Disponible : true
+Durée du DVD : 
+
+Côte : l0
+Titre : las vegas parano
+Auteur : hunterSthompson
+Année de parution : 1979
+Genre : drogue
+Disponible : true
+
+Côte : l1
+Titre : lord of the ring
+Auteur : tolkien
+Année de parution : 1959
+Genre : fantasy
+Disponible : true
